@@ -10,9 +10,8 @@ export default function Output(prop){
                 <List
                     sx={{
                         width: '100%',
-                        maxWidth: 600,
-                        border:1,
-                        mt:2,
+                        maxWidth: 632,
+                        borderRadius: '16px',
                         mx:'auto',
                         backgroundColor: 'aqua'
                     }}

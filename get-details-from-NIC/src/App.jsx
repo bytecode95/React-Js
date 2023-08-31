@@ -15,7 +15,7 @@ function App() {
 
     function getNICNumber(data){
         console.log(data);
-        return setData(...Data, data);
+        return setData(data);
     }
 
 

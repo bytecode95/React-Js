@@ -44,7 +44,7 @@ export default function SubmitNIC(props){
             <Card
                 variant="outlined"
                 component="form"
-                sx={{mx: 'auto', border: 1, width: 600, backgroundColor: 'aqua', p:2}}>
+                sx={{mx: 'auto',borderRadius: '16px', width: 600, backgroundColor: 'aqua', p:2}}>
 
                 <TextField className="textField"
                            fullWidth
